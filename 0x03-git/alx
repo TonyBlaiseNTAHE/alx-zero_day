@@ -1,3 +1,3 @@
 #!bin/bash
-
+echo "ALX is so_cool!" >alx
 echo "ALX is so_cool!"
